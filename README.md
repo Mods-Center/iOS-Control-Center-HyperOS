@@ -3,7 +3,6 @@
 
 A Magisk/KSU module which replaces boring HyperOS Control Center with iOS inspired control center and features 
 
-<img width="1220" height="2712" alt="1000963284" src="https://github.com/user-attachments/assets/1798eaa5-34fe-480c-a6ad-1c0d2b788c2f" />
 <img width="1184" height="2547" alt="1000963925" src="https://github.com/user-attachments/assets/e1430965-7b3a-415c-afe6-e95c3c3e866b" />
 <img width="1184" height="2547" alt="1000963926" src="https://github.com/user-attachments/assets/4355f076-f765-4d2e-adfd-7bc37473f7c0" />
 <img width="1184" height="2547" alt="1000963916" src="https://github.com/user-attachments/assets/41d45146-7d90-439c-8abb-e353b97603ff" />
