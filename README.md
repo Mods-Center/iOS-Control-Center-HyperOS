@@ -13,7 +13,7 @@
 
 </div>
 
-## ✨ Features
+## Features
 - iOS-style layout with connectivity, media and Smart Hub modules that expand in place
 - Jelly effect and reworked open/close animations, with a switch to keep the stock animation
 - iOS volume panel (can be turned off)
@@ -22,23 +22,23 @@
 - Tile groups, iOS-style icons and an edit mode: long-press any page to start editing
 - Reboot / power off actions that also work on Xiaomi.eu ROMs
 
-### 💡 Tips
+### Tips
 - Long-press any page to enter edit mode without using the edit button.
 - Customisation → tap the author name 3 times at the very bottom for a hidden switch that hides the edit and power buttons.
 
-## 📋 Requirements
+## Requirements
 - HyperOS 3 or HyperOS 4
 - Magisk, KernelSU or APatch
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/iOS-Control-Center-HyperOS/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - Android 15+: Signature verification must be disabled. Flash [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) or [Apk Signature Verification Patch](https://github.com/Mods-Center/Apk-Signature-Verification-Patch) first, or use the Core Patch LSPosed module.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/caa483a3-6256-4435-b626-6c958899d63c" width="23%" alt="iOS Control Center"/>
   <img src="https://github.com/user-attachments/assets/87c4c165-3fda-429a-9e4a-5cd89f6b996d" width="23%" alt="iOS Control Center"/>
@@ -65,8 +65,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/iOS-Control-Center-HyperOS/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/iOS-Control-Center-HyperOS/issues)
 
 </div>
